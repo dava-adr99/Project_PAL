@@ -84,6 +84,9 @@
                                         </div>
                                     </form>
                                     <hr>
+                                    <div class="col-md-6">
+                                        <a href="{{ route('register') }}">Belum punya akun? klik register</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
